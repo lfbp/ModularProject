@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.5.0)
+  - lottie-ios (3.3.0)
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - lottie-ios
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - lottie-ios
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: 951f07f55d146bdfd9103f5c780ada290623e2a9
+
+COCOAPODS: 1.11.3
